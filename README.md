@@ -1,4 +1,4 @@
 # README.md
-If Ediditig the file 
+If Editing the file 
 
 Its a markdown file in this repository.
